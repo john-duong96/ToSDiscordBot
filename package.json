@@ -1,0 +1,14 @@
+{
+  "name": "tosbot",
+  "version": "1.0.0",
+  "description": "ThinkOrSwim bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Duong",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
